@@ -5,7 +5,7 @@
 		<!-- Always need a meta charset -->
 		<meta charset="utf-8 "/>
 		<!-- Below is how you link to your css style sheet file -->
-		<link rel="stylesheet" href="css/style1.css" type="text/css" />
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
 		<!-- Custome JavaScript -->
 		<script type="text/javascript" src="js/scripts.js"></script>
